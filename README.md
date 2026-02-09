@@ -21,7 +21,7 @@ hierarchy-cache-assessment/
 │   │       └── HierarchyFilter.java         # Filtering logic (main implementation)
 │   └── test/java/com/assessment/
 │       └── hierarchy/
-│           └── HierarchyFilterTest.java     # Comprehensive test suite (15 tests)
+│           └── HierarchyFilterTest.java     # Comprehensive test suite (14 tests)
 ├── docs/
 │   └── SimpleCache.md                       # Code review with 15 identified issues
 ├── pom.xml                                  # Maven configuration
