@@ -16,7 +16,7 @@ hierarchy-cache-assessment/
 ├── src/
 │   ├── main/java/com/assessment/
 │   │   └── hierarchy/
-│   │       ├── Hierarchy.java              # Interface defining the forest data structure
+│   │       ├── Hierarchy.java               # Interface defining the forest data structure
 │   │       ├── ArrayBasedHierarchy.java     # Array-based implementation
 │   │       └── HierarchyFilter.java         # Filtering logic (main implementation)
 │   └── test/java/com/assessment/
@@ -221,14 +221,6 @@ For the anticipated load (thousands of reads/sec, hundreds of writes/sec, tens o
 3. **Memoization** for repeated filter operations
 4. **Custom collectors** for different output formats
 5. **Visualization tools** for debugging forest structures
-
-## License
-
-This is an assessment submission and is not licensed for reuse.
-
-## Contact
-
-For questions about this assessment, please contact the hiring team.
 
 ---
 
